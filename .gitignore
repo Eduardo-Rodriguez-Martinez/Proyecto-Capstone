@@ -1,0 +1,5 @@
+codigo/python_src/__pycache__
+codigo/python_src/c/__pycache__
+codigo/python_src/m/__pycache__
+codigo/python_src/v/__pycache__
+*.pyc
